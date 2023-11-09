@@ -38,12 +38,14 @@ background: linear-gradient(0deg, rgba(40,38,74,1) 0%, rgba(9,9,121,1) 25%, rgba
 .logo button{
     background-color: Transparent;
     background-repeat:no-repeat;
+    border-radius: 50%;
     border: none;
     cursor:pointer;
     overflow: hidden; 
 }
 .logo button img{
     height:3.5vw;
+    border-radius: 50%;
     background: rgba( 255, 255, 255, 0.2 );box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );backdrop-filter: blur( 13.5px );-webkit-backdrop-filter: blur( 13.5px );border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 
