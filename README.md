@@ -1,2 +1,4 @@
 # MyResume
-Building Resume Webpages for future Projects and opportunities.
+___
+*Building Resume Webpage
+using simple HTML , Css and Js.*
